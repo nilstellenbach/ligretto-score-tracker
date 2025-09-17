@@ -1,6 +1,7 @@
 {
   "name": "ligretto-score-tracker",
   "version": "1.0.0",
+  "homepage": "https://nilstellenbach.github.io/ligretto-score-tracker",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
@@ -24,5 +25,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
