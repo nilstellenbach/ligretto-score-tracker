@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ligretto-score-tracker/static/css/main.905348f0.css",
+    "main.js": "/ligretto-score-tracker/static/js/main.c42ec95f.js",
+    "index.html": "/ligretto-score-tracker/index.html",
+    "main.905348f0.css.map": "/ligretto-score-tracker/static/css/main.905348f0.css.map",
+    "main.c42ec95f.js.map": "/ligretto-score-tracker/static/js/main.c42ec95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.905348f0.css",
+    "static/js/main.c42ec95f.js"
+  ]
+}
